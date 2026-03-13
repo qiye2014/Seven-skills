@@ -1,0 +1,13 @@
+# Skill Vetter Plus — Custom Sensitive Paths
+# One pattern per line. Lines starting with # are comments.
+# Patterns are treated as regex. Use .* for wildcards.
+#
+# Add paths specific to YOUR environment below.
+# The scanner already checks a built-in default list covering
+# common credential and config locations.
+#
+# Examples:
+# ~/\.myapp/secrets
+# /etc/shadow
+# .*\.pem$
+# .*private.*key.*
